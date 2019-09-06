@@ -1,0 +1,14 @@
+{
+  "name": "udp_testclient",
+  "version": "1.0.0",
+  "description": "Test UDP Client for Show Canada",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Tracy (LAB at Rockwellgroup)",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
